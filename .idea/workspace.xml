@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cd565e-e7f2-4838-bef1-2040a8913bf9" name="Default" comment="" />
+    <list default="true" id="48cd565e-e7f2-4838-bef1-2040a8913bf9" name="Default" comment="提交workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,115 +35,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/src/struts.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/web/theNamespace/input.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="output.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/web/theNamespace/output.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NamespaceAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/action/NamespaceAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="struts-default.xml" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/struts2/web/WEB-INF/lib/struts2-core-2.5.16.jar!/struts-default.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/service/LoginService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/service/impl/LoginServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/action/LoginAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2/web/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.properties" pinned="false" current-in-tab="true">
-        <entry file="jar://$PROJECT_DIR$/struts2/web/WEB-INF/lib/struts2-core-2.5.16.jar!/org/apache/struts2/default.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="80" column="68" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -630,11 +525,20 @@
       <workItem from="1532308245127" duration="8284000" />
       <workItem from="1532328763716" duration="9464000" />
       <workItem from="1532391876467" duration="14096000" />
+      <workItem from="1532565368472" duration="3032000" />
     </task>
+    <task id="LOCAL-00001" summary="提交workspace.xml">
+      <created>1532565466556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532565466556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96553000" />
+    <option name="totallyTimeSpent" value="99585000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -649,30 +553,30 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5004517" side_tool="true" weight="0.3293011" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3293011" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.07036247" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.26086956" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5004517" side_tool="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3293011" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32924107" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49954832" weight="0.23772322" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47692308" visible="true" weight="0.19989339" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47692308" visible="true" weight="0.20202559" />
       <window_info id="Web" order="6" sideWeight="0.52307695" side_tool="true" weight="0.14872068" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.07036247" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.26086956" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
@@ -684,8 +588,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交workspace.xml" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -700,13 +618,7 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myModule1/src/net/imwork/zhanlong/ajax/AjaxServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/myModule1/src/net/imwork/zhanlong/ajax/AjaxServlet.java" />
     <entry file="file://$PROJECT_DIR$/myAjax/src/net/imword/zhanlong/servlet/MyServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -781,16 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -798,12 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,9 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -983,12 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1020,50 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/service/LoginService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/service/impl/LoginServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/action/LoginAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1074,9 +917,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/struts2/web/WEB-INF/lib/struts2-core-2.5.16.jar!/org/apache/struts2/default.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1310">
+          <caret line="77" column="7" lean-forward="true" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/action/LoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/service/impl/LoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2/src/net/imwork/zhanlong/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/struts2/web/WEB-INF/lib/struts2-core-2.5.16.jar!/struts-default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
+        <state relative-caret-position="21">
           <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="51" />
         </state>
       </provider>
@@ -1095,13 +978,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/struts2/src/struts.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/struts2/web/theNamespace/input.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1109,17 +985,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/struts2/web/login.jsp">
+    <entry file="file://$PROJECT_DIR$/struts2/src/struts.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/struts2/web/WEB-INF/lib/struts2-core-2.5.16.jar!/org/apache/struts2/default.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="80" column="68" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="68" />
+        <state relative-caret-position="612">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1177,7 +1046,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>myAjax</last-edited>
+          <last-edited>Test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
