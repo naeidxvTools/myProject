@@ -134,8 +134,8 @@
       <file leaf-file-name="default.properties" pinned="false" current-in-tab="true">
         <entry file="jar://$PROJECT_DIR$/struts2/web/WEB-INF/lib/struts2-core-2.5.16.jar!/org/apache/struts2/default.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="77" selection-end-column="23" />
+            <state relative-caret-position="546">
+              <caret line="80" column="68" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -157,6 +157,9 @@
       <find>ajax</find>
       <find>jQuery.ajax</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -231,7 +234,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="43" />
     <option name="width" value="1233" />
@@ -626,12 +629,12 @@
       <workItem from="1531103617533" duration="596000" />
       <workItem from="1532308245127" duration="8284000" />
       <workItem from="1532328763716" duration="9464000" />
-      <workItem from="1532391876467" duration="13112000" />
+      <workItem from="1532391876467" duration="14096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95569000" />
+    <option name="totallyTimeSpent" value="96553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,7 +646,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5004517" side_tool="true" weight="0.3293011" />
@@ -664,7 +667,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49954832" visible="true" weight="0.23772322" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49954832" weight="0.23772322" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47692308" visible="true" weight="0.19989339" />
       <window_info id="Web" order="6" sideWeight="0.52307695" side_tool="true" weight="0.14872068" />
@@ -1115,8 +1118,8 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/struts2/web/WEB-INF/lib/struts2-core-2.5.16.jar!/org/apache/struts2/default.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="77" selection-end-column="23" />
+        <state relative-caret-position="546">
+          <caret line="80" column="68" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -1126,7 +1129,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited />
+          <last-edited>myModule1:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
