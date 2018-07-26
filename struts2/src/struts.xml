@@ -1,0 +1,43 @@
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="zhanlong" extends="struts-default">
+
+        <global-results>
+            <result name="usernameInvalid">/WEB-INF/error.jsp</result>
+            <result name="passwordInvalid">/WEB-INF/error.jsp</result>
+        </global-results>
+
+        <global-exception-mappings>
+            <exception-mapping
+                exception="net.imwork.zhanlong.exception.UsernameException" result="usernameInvalid"></exception-mapping>
+            <exception-mapping
+                exception="net.imwork.zhanlong.exception.PasswordException" result="passwordInvalid"></exception-mapping>
+        </global-exception-mappings>
+
+        <action name="loginAction"
+                class="net.imwork.zhanlong.action.LoginAction">
+            <result name="success">/WEB-INF/result.jsp</result>
+            <result name="input">/login.jsp</result>
+        </action>
+
+        <action name="login2Action"
+                class="net.imwork.zhanlong.action.Login2Action">
+            <result name="success">/WEB-INF/result2.jsp</result>
+            <result name="input">/login2.jsp</result>
+        </action>
+
+        <action name="login3Action" class="net.imwork.zhanlong.action.Login3Action">
+            <result name="success">/WEB-INF/result3.jsp</result>
+            <result name="input">/login3.jsp</result>
+        </action>
+    </package>
+
+    <package name="jinlicong" extends="struts-default"
+             namespace="/theNamespace">
+        <action name="namespaceAction" class="net.imwork.zhanlong.action.NamespaceAction">
+            <result name="success">output.jsp</result>
+        </action>
+    </package>
+</struts>

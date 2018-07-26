@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<project default="init">
+    <target name="init" depends="de">
+        <mkdir dir="aa"></mkdir>
+    </target>
+    <target name="de">
+        <delete dir="aa"></delete>
+    </target>
+</project>

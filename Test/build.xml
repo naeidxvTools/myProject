@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<project name="myAnt" default="init">
+    <target name="init">
+        <mkdir dir="bb"></mkdir>
+    </target>
+    <target name="delete">
+        <delete dir="aa"></delete>
+        <delete dir="bb"></delete>
+    </target>
+
+    <target name="git">
+
+    </target>
+</project>
